@@ -4,7 +4,7 @@ body {
 }
 
 .hero {
-  background-image: url("./resources/Images/the-flatiron-building.png");
+  background-image: url("resources/Images/the-flatiron-building.png");
   color: white;
 }
 
@@ -34,7 +34,7 @@ p {
 }
 
 .designed {
-  background-image: url("./resources/Images/the-flatiron-building.png");
+  background-image: url("resources/Images/the-flatiron-building.png");
   color: white;
   font-weight: bold;
 }
