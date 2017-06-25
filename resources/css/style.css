@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.header {
+  background-image: url("file:///Users/josullivan/Projects/rkoebke.github.io/Broadway/resources/images/the-flatiron-building.png");
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.designed {
+  background-image: url("file:///Users/josullivan/Projects/rkoebke.github.io/Broadway/resources/images/the-flatiron-building.png");
+  color: white;
+  font-weight: bold;
+}
+
+.footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
