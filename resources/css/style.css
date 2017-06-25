@@ -4,7 +4,7 @@ body {
 }
 
 .hero {
-  background-image: url("https://github.com/rkoebke/broadway/blob/master/resources/Images/the-flatiron-building.jpg?raw=true");
+  background-image: url("./resources/Images/the-flatiron-building.jpg");
   color: white;
 }
 
