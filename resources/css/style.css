@@ -3,8 +3,9 @@ body {
   font-family: Helvetica;
 }
 
-.header {
+.hero {
   background-image: url("file:///Users/josullivan/Projects/rkoebke.github.io/Broadway/resources/images/the-flatiron-building.png");
+  color: white;
 }
 
 h1 {
@@ -13,7 +14,7 @@ h1 {
   color: white;
 }
 
-.nav {
+.btn-nav {
   font-size: 18px;
   color: white;
 }
@@ -42,4 +43,5 @@ p {
   color: white;
   background-color: dimgray;
   text-align: left;
+  font-size: 11px;
 }
